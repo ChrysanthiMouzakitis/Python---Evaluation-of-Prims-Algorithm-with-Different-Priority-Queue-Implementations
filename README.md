@@ -1,0 +1,2 @@
+# Python---Evaluation-of-Prims-Algorithm-with-Different-Priority-Queue-Implementations
+Implemented Prim’s algorithm with heap-based and unsorted list priority queues, producing correct minimum spanning trees. Gained experience in graph generation and algorithm experimentation with varied sizes and densities. Conducted performance analysis, revealing runtime patterns and scalability differences between data structures.
